@@ -1,0 +1,45 @@
+title:            MarinaMartin.com
+description:      Personal site of Marina Martin
+logo:             MarinaMartinHeadshot.jpg
+disqus_shortname: shortname
+search:           false
+# Your site's domain goes here. When working locally use localhost server leave blank
+# PS. If you set this wrong stylesheets and scripts won't load and most links will break.
+# PPS. If you leave it blank for local testing home links won't work, they'll be fine for live domains though.
+url:              http://localhost:4000
+
+# Owner/author information
+owner:
+  name:           Marina Martin
+  avatar:         your-photo.jpg
+  email:          your@email.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: "http://www.twitter.com/MarinaMartin"
+  facebook:
+  github: "https://github.com/MarinaMartin"
+  linkedin: "http://linkedin.com/in/marinamartin"
+  instagram:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  #google_plus:    "http://plus.google.com/123123123123132123"
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Buy My Book
+    url: http://bit.ly/businessefficiency
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/

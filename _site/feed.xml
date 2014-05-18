@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+
+
+  
+  
+
+<title type="text">MarinaMartin.com</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http:http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http:http://localhost:4000/" />
+<updated>2014-05-18T16:02:02-04:00</updated>
+<id>http:http://localhost:4000/</id>
+<author>
+  <name>Marina Martin</name>
+  <uri>http:http://localhost:4000/</uri>
+  <email>your@email.com</email>
+</author>
+
+</feed>
