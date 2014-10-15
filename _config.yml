@@ -14,10 +14,10 @@ owner:
   avatar:         your-photo.jpg
   email:          your@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: "http://www.twitter.com/MarinaMartin"
+  twitter: "MarinaMartin"
   facebook:
-  github: "https://github.com/MarinaMartin"
-  linkedin: "http://linkedin.com/in/marinamartin"
+  github: "MarinaMartin"
+  linkedin: "marinamartin"
   instagram:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
