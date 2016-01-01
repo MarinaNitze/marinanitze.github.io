@@ -33,7 +33,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Buy My Book
-    url: http://bit.ly/businessefficiency
+    url: http://bit.ly/businessefficiencybook
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
