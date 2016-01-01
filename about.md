@@ -14,6 +14,6 @@ Marina Martin is currently serving as the **Chief Technology Officer of the Depa
 
 She was formerly **Senior Advisor to US CTO Todd Park**, with a portfolio focusing on both the VA and liberating government data to fuel innovation, create jobs, and improve the lives of everyday Americans. As part of the inaugural class of 18 **Presidential Innovation Fellows**, Marina served as the first **Entrepreneur-in-Residence** at the US Department of Education, where she worked with internal and private sector innovators to use open educational data as fuel for apps and services that can help achieve national priorities such as increasing college affordability and completion rates. 
 
-Prior to joining the federal government, Marina was **Founder & CEO** of the business efficiency consulting firm The Type-A Way and **author of** [**Business Efficiency for Dummies**](http://bit.ly/businessefficiency).
+Prior to joining the federal government, Marina was **Founder & CEO** of the business efficiency consulting firm The Type-A Way and **author of** [**Business Efficiency for Dummies**](http://bit.ly/businessefficiencybook).
 
 Contact Marina at me-(at)-marinamartin.com
