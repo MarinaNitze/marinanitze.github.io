@@ -1,5 +1,5 @@
-title:            MarinaMartin.com
-description:      Personal site of Marina Martin
+title:            MarinaNitze.com
+description:      Personal site of Marina Nitze
 logo:             MarinaMartinHeadshot.jpg
 disqus_shortname: shortname
 search:           false
@@ -10,14 +10,14 @@ url:              http://marinamartin.github.io
 
 # Owner/author information
 owner:
-  name:           Marina Martin
+  name:           Marina Nitze
   avatar:         your-photo.jpg
   email:          your@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: "MarinaMartin"
+  twitter: "MarinaNitze"
   facebook:
   github: "MarinaMartin"
-  linkedin: "marinamartin"
+  linkedin: "marinanitze"
   instagram:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
