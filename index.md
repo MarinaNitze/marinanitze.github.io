@@ -12,7 +12,7 @@ image:
 
 Marina (Martin) Nitze (pronounced NITS-uh) is currently focused on **improving America's child welfare system**, while also **helping organizations solve mission-critical IT challenges**. She was previously the Chief Technology Officer of the U.S. Department of Veterans Affairs (2013-2017), helped found the United States Digital Service, and served as a Senior Advisor on technology in the White House under the Obama Administration.
 
-<mark>Marina also created [TaskTackler](https://www.tasktackler.com/), a productivity app designed specifically for Type-A personalities.</mark>
+Marina also created [TaskTackler](https://www.tasktackler.com/), a productivity app designed specifically for Type-A personalities.
 
 Marina is currently working with multiple states to help identify and implement [promising practices in foster care](https://www.childwelfareplaybook.com), in order to keep at-risk kids safe and safely reduce time spent in foster care. Marina is able to do much of this work thanks to the new Public Interest Technology vertical at the **New America Foundation**, where she is currently a Fellow. She is also proud to be on the advisory board for [**Foster America**](https://www.foster-america.org) and has been an active volunteer [**Court-Appointed Special Advocate**](http://www.casaforchildren.org/) for at-risk foster youth for over a decade. Marina is extremely interested in hearing from anyone working in this space or adjacent spaces.
 
